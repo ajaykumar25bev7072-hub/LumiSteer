@@ -1,0 +1,18 @@
+INFO:     Started server process [27368]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:63919 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63920 - "POST /api/simulate HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63914 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63921 - "POST /api/simulate HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63922 - "POST /api/compare HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61532 - "POST /api/timeline HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61548 - "POST /api/sweep HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61638 - "POST /api/compare HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64031 - "POST /api/timeline HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54441 - "POST /api/compare HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54543 - "POST /api/timeline HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59535 - "POST /api/compare HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51296 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52627 - "POST /api/agent/run HTTP/1.1" 200 OK
